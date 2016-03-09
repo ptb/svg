@@ -1,0 +1,37 @@
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 120 120"
+   width="120"
+   height="120">
+  <sodipodi:namedview
+    showgrid="true"
+    inkscape:window-maximized="0"
+    inkscape:zoom="9"
+    inkscape:cx="60"
+    inkscape:cy="60"
+    inkscape:window-width="1788"
+    inkscape:window-height="1395"
+    inkscape:window-x="0"
+    inkscape:window-y="0">
+    <inkscape:grid
+      type="xygrid"
+      empspacing="5"
+      visible="true"
+      enabled="true"
+      snapvisiblegridlinesonly="true"/>
+    <sodipodi:guide orientation="0,1" position="0,10"/>
+    <sodipodi:guide orientation="0,1" position="0,30"/>
+    <sodipodi:guide orientation="0,1" position="0,40"/>
+    <sodipodi:guide orientation="0,1" position="0,60"/>
+    <sodipodi:guide orientation="0,1" position="0,70"/>
+    <sodipodi:guide orientation="0,1" position="0,90"/>
+    <sodipodi:guide orientation="0,1" position="0,110"/>
+    <sodipodi:guide orientation="1,0" position="10,0"/>
+    <sodipodi:guide orientation="1,0" position="30,0"/>
+    <sodipodi:guide orientation="1,0" position="60,0"/>
+    <sodipodi:guide orientation="1,0" position="90,0"/>
+    <sodipodi:guide orientation="1,0" position="110,0"/>
+  </sodipodi:namedview>
+</svg>
